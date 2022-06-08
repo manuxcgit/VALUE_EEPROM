@@ -1,8 +1,12 @@
 {
   "name": "Value_Eeprom",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gerer valeur stock�e en Eeprom FLash",
   "keywords": "Eeprom",
-  "frameworks": "*",
-  "platforms": "*"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuxcgit/VALUE_EEPROM.git"
+  },
+"frameworks": "arduino",
+"platforms": "atmelavr"
 }
