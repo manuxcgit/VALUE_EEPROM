@@ -1,6 +1,7 @@
 #pragma once
 
 //juste pour upload MAJ
+//encore un essai
 
 #include <Arduino.h>
 #include "FlashAsEEPROM.h"
