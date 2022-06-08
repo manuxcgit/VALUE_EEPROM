@@ -1,7 +1,7 @@
 {
   "name": "Value_Eeprom",
-  "version": "1.0.0",
-  "description": "Gerer valeur stockée en Eeprom FLash",
+  "version": "1.0.1",
+  "description": "Gerer valeur stockï¿½e en Eeprom FLash",
   "keywords": "Eeprom",
   "frameworks": "*",
   "platforms": "*"
