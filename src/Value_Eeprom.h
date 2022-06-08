@@ -1,5 +1,7 @@
 #pragma once
 
+//ok
+
 #include <Arduino.h>
 #include "FlashAsEEPROM.h"
 
